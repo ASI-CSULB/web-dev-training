@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "./App.css";
-
 const Data = [
   {
     name: "demo1",
@@ -20,7 +19,7 @@ const Data = [
   {
     name: "demo4",
     email: "demo4@gmail.com",
-    img: "public/F24_USU_Farmers-Market_dgtl-CalButton.jpg",
+    img: "F24_USU_Farmers-Market_dgtl-CalButton.jpg",
   },
 ];
 
@@ -30,6 +29,7 @@ function App() {
   return (
     <div className="App">
       <div>Code Here</div>
+      
     </div>
   );
 }
